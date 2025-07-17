@@ -1,0 +1,2582 @@
+[
+  {
+     "State": "Tamilnadu",
+     "Districts": [
+  {
+    "District": "ARIYALUR",
+    "Rainfall in mm": 1483
+  },
+  {
+    "District": "CHENNAI",
+    "Rainfall in mm": 1298
+  },
+  {
+    "District": "COIMBATORE",
+    "Rainfall in mm": 694
+  },
+  {
+    "District": "CUDDALORE",
+    "Rainfall in mm": 1207
+  },
+  {
+    "District": "DHARMAPURI",
+    "Rainfall in mm": 715
+  },
+  {
+    "District": "DINDIGUL",
+    "Rainfall in mm": 788
+  },
+  {
+    "District": "ERODE",
+    "Rainfall in mm": 732
+  },
+  {
+    "District": "KANCHEEPURAM",
+    "Rainfall in mm": 1100
+  },
+  {
+    "District": "KANNIYAKUMARI",
+    "Rainfall in mm": 896
+  },
+  {
+    "District": "KARUR",
+    "Rainfall in mm": 563
+  },
+  {
+    "District": "KRISHNAGIRI",
+    "Rainfall in mm": 792
+  },
+  {
+    "District": "MADURAI",
+    "Rainfall in mm": 803
+  },
+  {
+    "District": "NAGAPPATTINAM",
+    "Rainfall in mm": 1213
+  },
+  {
+    "District": "NAMAKKAL",
+    "Rainfall in mm": 702
+  },
+  {
+    "District": "PERAMBALUR",
+    "Rainfall in mm": 949
+  },
+  {
+    "District": "PUDUKKOTTAI",
+    "Rainfall in mm": 826
+  },
+  {
+    "District": "RAMANATHAPURAM",
+    "Rainfall in mm": 697
+  },
+  {
+    "District": "SALEM",
+    "Rainfall in mm": 898
+  },
+  {
+    "District": "SIVAGANGA",
+    "Rainfall in mm": 834
+  },
+  {
+    "District": "THANJAVUR",
+    "Rainfall in mm": 1066
+  },
+  {
+    "District": "THE NILGIRIS",
+    "Rainfall in mm": 912
+  },
+  {
+    "District": "THENI",
+    "Rainfall in mm": 1114
+  },
+  {
+    "District": "THIRUVALLUR",
+    "Rainfall in mm": 1204
+  },
+  {
+    "District": "THIRUVARUR",
+    "Rainfall in mm": 589
+  },
+  {
+    "District": "THOOTHUKKUDI",
+    "Rainfall in mm": 726
+  },
+  {
+    "District": "TIRUCHIRAPPALLI",
+    "Rainfall in mm": 662
+  },
+  {
+    "District": "TIRUNELVELI",
+    "Rainfall in mm": 680
+  },
+  {
+    "District": "TIRUPPUR",
+    "Rainfall in mm": 649
+  },
+  {
+    "District": "TIRUVANNAMALAI",
+    "Rainfall in mm": 1046
+  },
+  {
+    "District": "VELLORE",
+    "Rainfall in mm": 917
+  },
+  {
+    "District": "VILUPPURAM",
+    "Rainfall in mm": 957
+  },
+  {
+    "District": "VIRUDUNAGAR",
+    "Rainfall in mm": 691
+  }
+]},
+
+
+{
+    "State": "Kerala",
+    "Districts": [
+  {
+    "District": "ALAPPUZHA",
+    "Rainfall in mm": 3004
+  },
+  {
+    "District": "ERNAKULAM",
+    "Rainfall in mm": 3578
+  },
+  {
+    "District": "IDUKKI",
+    "Rainfall in mm": 3772
+  },
+  {
+    "District": "KANNUR",
+    "Rainfall in mm": 3373
+  },
+  {
+    "District": "KASARAGOD",
+    "Rainfall in mm": 3621
+  },
+  {
+    "District": "KOLLAM",
+    "Rainfall in mm": 2494
+  },
+  {
+    "District": "KOTTAYAM",
+    "Rainfall in mm": 3209
+  },
+  {
+    "District": "KOZHIKODE",
+    "Rainfall in mm": 3676
+  },
+  {
+    "District": "MALAPPURAM",
+    "Rainfall in mm": 2850
+  },
+  {
+    "District": "PALAKKAD",
+    "Rainfall in mm": 2477
+  },
+  {
+    "District": "PATHANAMTHITTA",
+    "Rainfall in mm": 2840
+  },
+  {
+    "District": "THIRUVANANTHAPURAM",
+    "Rainfall in mm": 1927
+  },
+  {
+    "District": "THRISSUR",
+    "Rainfall in mm": 3077
+  },
+  {
+    "District": "WAYANAD",
+    "Rainfall in mm": 3417
+  }
+]},
+
+{
+    "State": "Karnataka",
+    "Districts": [
+
+  {
+    "District": "BAGALKOT",
+    "Rainfall in mm": 592
+  },
+  {
+    "District": "BANGALORE",
+    "Rainfall in mm": 841
+  },
+  {
+    "District": "BANGALORE RURAL",
+    "Rainfall in mm": 837
+  },
+  {
+    "District": "BELGAUM",
+    "Rainfall in mm": 732
+  },
+  {
+    "District": "BELLARY",
+    "Rainfall in mm": 632
+  },
+  {
+    "District": "BIDAR",
+    "Rainfall in mm": 905
+  },
+  {
+    "District": "BIJAPUR",
+    "Rainfall in mm": 1689
+  },
+  {
+    "District": "CHAMRAJNAGAR",
+    "Rainfall in mm": 769
+  },
+  {
+    "District": "CHIKKABALLAPURA",
+    "Rainfall in mm": 1061
+  },
+  {
+    "District": "CHIKMAGALUR",
+    "Rainfall in mm": 1802
+  },
+  {
+    "District": "CHITRADURGA",
+    "Rainfall in mm": 535
+  },
+  {
+    "District": "DAKSHINA KANNADA",
+    "Rainfall in mm": 3857
+  },
+  {
+    "District": "DAVANAGERE",
+    "Rainfall in mm": 662
+  },
+  {
+    "District": "DHARWAD",
+    "Rainfall in mm": 785
+  },
+  {
+    "District": "GADAG",
+    "Rainfall in mm": 631
+  },
+  {
+    "District": "GULBARGA",
+    "Rainfall in mm": 843
+  },
+  {
+    "District": "HASSAN",
+    "Rainfall in mm": 1396
+  },
+  {
+    "District": "HAVERI",
+    "Rainfall in mm": 747
+  },
+  {
+    "District": "KODAGU",
+    "Rainfall in mm": 2249
+  },
+  {
+    "District": "KOLAR",
+    "Rainfall in mm": 738
+  },
+  {
+    "District": "KOPPAL",
+    "Rainfall in mm": 586
+  },
+  {
+    "District": "MANDYA",
+    "Rainfall in mm": 700
+  },
+  {
+    "District": "MYSORE",
+    "Rainfall in mm": 777
+  },
+  {
+    "District": "RAICHUR",
+    "Rainfall in mm": 680
+  },
+  {
+    "District": "RAMANAGARA",
+    "Rainfall in mm": 1154
+  },
+  {
+    "District": "SHIMOGA",
+    "Rainfall in mm": 2073
+  },
+  {
+    "District": "TUMKUR",
+    "Rainfall in mm": 693
+  },
+  {
+    "District": "UDUPI",
+    "Rainfall in mm": 4405
+  },
+  {
+    "District": "UTTARA KANNADA",
+    "Rainfall in mm": 3221
+  },
+  {
+    "District": "YADGIR",
+    "Rainfall in mm": 939
+  }
+]},
+
+
+{
+    "State": "Andhra pradesh",
+    "Districts":[
+{
+    "District": "ANANTAPUR",
+    "Rainfall in mm": 536
+  },
+  {
+    "District": "CHITTOOR",
+    "Rainfall in mm": 841
+  },
+  {
+    "District": "EAST GODAVARI",
+    "Rainfall in mm": 1124
+  },
+  {
+    "District": "GUNTUR",
+    "Rainfall in mm": 904
+  },
+  {
+    "District": "KRISHNA",
+    "Rainfall in mm": 1019
+  },
+  {
+    "District": "KURNOOL",
+    "Rainfall in mm": 655
+  },
+  {
+    "District": "PRAKASAM",
+    "Rainfall in mm": 812
+  },
+  {
+    "District": "SRI POTTI SRIRAMULU NELLORE",
+    "Rainfall in mm": 999
+  },
+  {
+    "District": "SRIKAKULAM",
+    "Rainfall in mm": 1156
+  },
+  {
+    "District": "VISAKHAPATNAM",
+    "Rainfall in mm": 1111
+  },
+  {
+    "District": "VIZIANAGARAM",
+    "Rainfall in mm": 1156
+  },
+  {
+    "District": "WEST GODAVARI",
+    "Rainfall in mm": 1102
+  },
+  {
+    "District": "Y.S.R.",
+    "Rainfall in mm": 719
+  }
+]
+},
+
+{
+    "State": "Telangana",
+    "Districts":[
+{
+    "District": "ADILABAD",
+    "Rainfall in mm": 1104
+  },
+  {
+    "District": "HYDERABAD",
+    "Rainfall in mm": 846
+  },
+  {
+    "District": "KARIMNAGAR",
+    "Rainfall in mm": 978
+  },
+  {
+    "District": "KHAMMAM",
+    "Rainfall in mm": 1096
+  },
+  {
+    "District": "MAHBUBNAGAR",
+    "Rainfall in mm": 749
+  },
+  {
+    "District": "MEDAK",
+    "Rainfall in mm": 955
+  },
+  {
+    "District": "NALGONDA",
+    "Rainfall in mm": 744
+  },
+  {
+    "District": "NIZAMABAD",
+    "Rainfall in mm": 1069
+  },
+  {
+    "District": "RANGAREDDY",
+    "Rainfall in mm": 835
+  },
+  {
+    "District": "WARANGAL",
+    "Rainfall in mm": 991
+  }
+]
+},
+
+{
+    "State": "Maharastra",
+    "Districts":[
+  {
+    "District": "AHMADNAGAR",
+    "Rainfall in mm": 596
+  },
+  {
+    "District": "AKOLA",
+    "Rainfall in mm": 825
+  },
+  {
+    "District": "AMRAVATI",
+    "Rainfall in mm": 886
+  },
+  {
+    "District": "AURANGABAD",
+    "Rainfall in mm": 761
+  },
+  {
+    "District": "BHANDARA",
+    "Rainfall in mm": 1361
+  },
+  {
+    "District": "BID",
+    "Rainfall in mm": 734
+  },
+  {
+    "District": "BULDANA",
+    "Rainfall in mm": 793
+  },
+  {
+    "District": "CHANDRAPUR",
+    "Rainfall in mm": 1305
+  },
+  {
+    "District": "DHULE",
+    "Rainfall in mm": 647
+  },
+  {
+    "District": "GARHCHIROLI",
+    "Rainfall in mm": 1429
+  },
+  {
+    "District": "GONDIYA",
+    "Rainfall in mm": 1378
+  },
+  {
+    "District": "HINGOLI",
+    "Rainfall in mm": 885
+  },
+  {
+    "District": "JALGAON",
+    "Rainfall in mm": 782
+  },
+  {
+    "District": "JALNA",
+    "Rainfall in mm": 752
+  },
+  {
+    "District": "KOLHAPUR",
+    "Rainfall in mm": 1625
+  },
+  {
+    "District": "LATUR",
+    "Rainfall in mm": 929
+  },
+  {
+    "District": "MUMBAI",
+    "Rainfall in mm": 2253
+  },
+  {
+    "District": "MUMBAI SUBURBAN",
+    "Rainfall in mm": 3241
+  },
+  {
+    "District": "NAGPUR",
+    "Rainfall in mm": 1082
+  },
+  {
+    "District": "NANDED",
+    "Rainfall in mm": 979
+  },
+  {
+    "District": "NANDURBAR",
+    "Rainfall in mm": 914
+  },
+  {
+    "District": "NASHIK",
+    "Rainfall in mm": 658
+  },
+  {
+    "District": "OSMANABAD",
+    "Rainfall in mm": 845
+  },
+  {
+    "District": "PARBHANI",
+    "Rainfall in mm": 916
+  },
+  {
+    "District": "PUNE",
+    "Rainfall in mm": 1123
+  },
+  {
+    "District": "RAIGARH",
+    "Rainfall in mm": 3320
+  },
+  {
+    "District": "RATNAGIRI",
+    "Rainfall in mm": 3290
+  },
+  {
+    "District": "SANGLI",
+    "Rainfall in mm": 737
+  },
+  {
+    "District": "SATARA",
+    "Rainfall in mm": 1118
+  },
+  {
+    "District": "SINDHUDURG",
+    "Rainfall in mm": 2887
+  },
+  {
+    "District": "SOLAPUR",
+    "Rainfall in mm": 659
+  },
+  {
+    "District": "THANE",
+    "Rainfall in mm": 2525
+  },
+  {
+    "District": "WARDHA",
+    "Rainfall in mm": 1043
+  },
+  {
+    "District": "WASHIM",
+    "Rainfall in mm": 965
+  },
+  {
+    "District": "YAVATMAL",
+    "Rainfall in mm": 1032
+  }
+]},
+
+{
+    "State": "Gujarat",
+    "Districts":[
+  {
+    "District": "AHMADABAD",
+    "Rainfall in mm": 695
+  },
+  {
+    "District": "AMRELI",
+    "Rainfall in mm": 567
+  },
+  {
+    "District": "ANAND",
+    "Rainfall in mm": 860
+  },
+  {
+    "District": "BANAS KANTHA",
+    "Rainfall in mm": 667
+  },
+  {
+    "District": "BHARUCH",
+    "Rainfall in mm": 905
+  },
+  {
+    "District": "BHAVNAGAR",
+    "Rainfall in mm": 608
+  },
+  {
+    "District": "DOHAD",
+    "Rainfall in mm": 879
+  },
+  {
+    "District": "GANDHINAGAR",
+    "Rainfall in mm": 764
+  },
+  {
+    "District": "JAMNAGAR",
+    "Rainfall in mm": 500
+  },
+  {
+    "District": "JUNAGADH",
+    "Rainfall in mm": 835
+  },
+  {
+    "District": "KACHCHH",
+    "Rainfall in mm": 405
+  },
+  {
+    "District": "KHEDA",
+    "Rainfall in mm": 870
+  },
+  {
+    "District": "MAHESANA",
+    "Rainfall in mm": 717
+  },
+  {
+    "District": "NARMADA",
+    "Rainfall in mm": 1155
+  },
+  {
+    "District": "NAVSARI",
+    "Rainfall in mm": 1853
+  },
+  {
+    "District": "PANCH MAHALS",
+    "Rainfall in mm": 996
+  },
+  {
+    "District": "PATAN",
+    "Rainfall in mm": 580
+  },
+  {
+    "District": "PORBANDAR",
+    "Rainfall in mm": 672
+  },
+  {
+    "District": "RAJKOT",
+    "Rainfall in mm": 614
+  },
+  {
+    "District": "SABAR KANTHA",
+    "Rainfall in mm": 793
+  },
+  {
+    "District": "SURAT",
+    "Rainfall in mm": 1450
+  },
+  {
+    "District": "SURENDRANAGAR",
+    "Rainfall in mm": 531
+  },
+  {
+    "District": "TAPI",
+    "Rainfall in mm": 1305
+  },
+  {
+    "District": "THE DANGS",
+    "Rainfall in mm": 2047
+  },
+  {
+    "District": "VADODARA",
+    "Rainfall in mm": 1016
+  },
+  {
+    "District": "VALSAD",
+    "Rainfall in mm": 2013
+  }
+]},
+  
+{
+    "State" : "Odisha",
+    "Districts" :[
+  {
+    "District": "ANUGUL",
+    "Rainfall in mm": 1380
+  },
+  {
+    "District": "BALANGIR",
+    "Rainfall in mm": 1380
+  },
+  {
+    "District": "BALESHWAR",
+    "Rainfall in mm": 1700
+  },
+  {
+    "District": "BARGARH",
+    "Rainfall in mm": 1386
+  },
+  {
+    "District": "BAUDA",
+    "Rainfall in mm": 1441
+  },
+  {
+    "District": "BHADRAK",
+    "Rainfall in mm": 1588
+  },
+  {
+    "District": "CUTTACK",
+    "Rainfall in mm": 1496
+  },
+  {
+    "District": "DEBAGARH",
+    "Rainfall in mm": 1581
+  },
+  {
+    "District": "DHENKANAL",
+    "Rainfall in mm": 1457
+  },
+  {
+    "District": "GAJAPATI",
+    "Rainfall in mm": 1358
+  },
+  {
+    "District": "GANJAM",
+    "Rainfall in mm": 1358
+  },
+  {
+    "District": "JAGATSINGHAPUR",
+    "Rainfall in mm": 1496
+  },
+  {
+    "District": "JAJAPUR",
+    "Rainfall in mm": 1558
+  },
+  {
+    "District": "JHARSUGUDA",
+    "Rainfall in mm": 1464
+  },
+  {
+    "District": "KALAHANDI",
+    "Rainfall in mm": 1382
+  },
+  {
+    "District": "KANDHAMAL",
+    "Rainfall in mm": 1557
+  },
+  {
+    "District": "KENDRAPARA",
+    "Rainfall in mm": 1700
+  },
+  {
+    "District": "KENDUJHAR",
+    "Rainfall in mm": 1306
+  },
+  {
+    "District": "KHORDHA",
+    "Rainfall in mm": 1501
+  },
+  {
+    "District": "KORAPUT",
+    "Rainfall in mm": 1552
+  },
+  {
+    "District": "MALKANGIRI",
+    "Rainfall in mm": 1599
+  },
+  {
+    "District": "MAYURBHANJ",
+    "Rainfall in mm": 1682
+  },
+  {
+    "District": "NABARANGAPUR",
+    "Rainfall in mm": 1291
+  },
+  {
+    "District": "NAYAGARH",
+    "Rainfall in mm": 1302
+  },
+  {
+    "District": "NUAPADA",
+    "Rainfall in mm": 1294
+  },
+  {
+    "District": "PURI",
+    "Rainfall in mm": 1412
+  },
+  {
+    "District": "RAYAGADA",
+    "Rainfall in mm": 1552
+  },
+  {
+    "District": "SAMBALPUR",
+    "Rainfall in mm": 1581
+  },
+  {
+    "District": "SUBARNAPUR",
+    "Rainfall in mm": 1380
+  },
+  {
+    "District": "SUNDARGARH",
+    "Rainfall in mm": 1474
+  }
+]},
+
+{
+    "State": "Chattisgarh",
+    "Districts":[
+  {
+    "District": "BASTAR",
+    "Rainfall in mm": 1520
+  },
+  {
+    "District": "BIJAPUR",
+    "Rainfall in mm": 630
+  },
+  {
+    "District": "BILASPUR",
+    "Rainfall in mm": 1266
+  },
+  {
+    "District": "DAKSHIN BASTAR DANTEWADA",
+    "Rainfall in mm": 1487
+  },
+  {
+    "District": "DHAMTARI",
+    "Rainfall in mm": 1205
+  },
+  {
+    "District": "DURG",
+    "Rainfall in mm": 1159
+  },
+  {
+    "District": "JANJGIR-CHAMPA",
+    "Rainfall in mm": 1355
+  },
+  {
+    "District": "JASHPUR",
+    "Rainfall in mm": 1722
+  },
+  {
+    "District": "KABEERDHAM",
+    "Rainfall in mm": 1104
+  },
+  {
+    "District": "KORBA",
+    "Rainfall in mm": 1432
+  },
+  {
+    "District": "KORIYA",
+    "Rainfall in mm": 1315
+  },
+  {
+    "District": "MAHASAMUND",
+    "Rainfall in mm": 1260
+  },
+  {
+    "District": "NARAYANPUR",
+    "Rainfall in mm": 1479
+  },
+  {
+    "District": "RAIGARH",
+    "Rainfall in mm": 1494
+  },
+  {
+    "District": "RAIPUR",
+    "Rainfall in mm": 1252
+  },
+  {
+    "District": "RAJNANDGAON",
+    "Rainfall in mm": 1213
+  },
+  {
+    "District": "SURGUJA",
+    "Rainfall in mm": 1314
+  },
+  {
+    "District": "UTTAR BASTAR KANKER",
+    "Rainfall in mm": 1441
+  }     
+]},
+
+{
+    "State": "Madhya Pradesh",
+    "Districts": [
+  {
+    "District": "ALIRAJPUR",
+    "Rainfall in mm": 832
+  },
+  {
+    "District": "ANUPPUR",
+    "Rainfall in mm": 1335
+  },
+  {
+    "District": "ASHOKNAGAR",
+    "Rainfall in mm": 1128
+  },
+  {
+    "District": "BALAGHAT",
+    "Rainfall in mm": 1472
+  },
+  {
+    "District": "BARWANI",
+    "Rainfall in mm": 743
+  },
+  {
+    "District": "BETUL",
+    "Rainfall in mm": 1081
+  },
+  {
+    "District": "BHIND",
+    "Rainfall in mm": 754
+  },
+  {
+    "District": "BHOPAL",
+    "Rainfall in mm": 1107
+  },
+  {
+    "District": "BURHANPUR",
+    "Rainfall in mm": 930
+  },
+  {
+    "District": "CHHATARPUR",
+    "Rainfall in mm": 1095
+  },
+  {
+    "District": "CHHINDWARA",
+    "Rainfall in mm": 1222
+  },
+  {
+    "District": "DAMOH",
+    "Rainfall in mm": 1170
+  },
+  {
+    "District": "DATIA",
+    "Rainfall in mm": 854
+  },
+  {
+    "District": "DEWAS",
+    "Rainfall in mm": 1069
+  },
+  {
+    "District": "DHAR",
+    "Rainfall in mm": 857
+  },
+  {
+    "District": "DINDORI",
+    "Rainfall in mm": 1377
+  },
+  {
+    "District": "EAST NIMAR",
+    "Rainfall in mm": 973
+  },
+  {
+    "District": "GUNA",
+    "Rainfall in mm": 1051
+  },
+  {
+    "District": "GWALIOR",
+    "Rainfall in mm": 879
+  },
+  {
+    "District": "HARDA",
+    "Rainfall in mm": 1375
+  },
+  {
+    "District": "HOSHANGABAD",
+    "Rainfall in mm": 1438
+  },
+  {
+    "District": "INDORE",
+    "Rainfall in mm": 941
+  },
+  {
+    "District": "JABALPUR",
+    "Rainfall in mm": 1227
+  },
+  {
+    "District": "JHABUA",
+    "Rainfall in mm": 849
+  },
+  {
+    "District": "KATNI",
+    "Rainfall in mm": 1171
+  },
+  {
+    "District": "MANDLA",
+    "Rainfall in mm": 1445
+  },
+  {
+    "District": "MANDSAUR",
+    "Rainfall in mm": 881
+  },
+  {
+    "District": "MORENA",
+    "Rainfall in mm": 754
+  },
+  {
+    "District": "NARSIMHAPUR",
+    "Rainfall in mm": 1243
+  },
+  {
+    "District": "NEEMUCH",
+    "Rainfall in mm": 850
+  },
+  {
+    "District": "PANNA",
+    "Rainfall in mm": 1183
+  },
+  {
+    "District": "RAISEN",
+    "Rainfall in mm": 1238
+  },
+  {
+    "District": "RAJGARH",
+    "Rainfall in mm": 1000
+  },
+  {
+    "District": "RATLAM",
+    "Rainfall in mm": 954
+  },
+  {
+    "District": "REWA",
+    "Rainfall in mm": 1143
+  },
+  {
+    "District": "SAGAR",
+    "Rainfall in mm": 1198
+  },
+  {
+    "District": "SATNA",
+    "Rainfall in mm": 1078
+  },
+  {
+    "District": "SEHORE",
+    "Rainfall in mm": 1218
+  },
+  {
+    "District": "SEONI",
+    "Rainfall in mm": 1318
+  },
+  {
+    "District": "SHAHDOL",
+    "Rainfall in mm": 1226
+  },
+  {
+    "District": "SHAJAPUR",
+    "Rainfall in mm": 1020
+  },
+  {
+    "District": "SHEOPUR",
+    "Rainfall in mm": 842
+  },
+  {
+    "District": "SHIVPURI",
+    "Rainfall in mm": 896
+  },
+  {
+    "District": "SIDHI",
+    "Rainfall in mm": 1176
+  },
+  {
+    "District": "SINGRAULI",
+    "Rainfall in mm": 983
+  },
+  {
+    "District": "TIKAMGARH",
+    "Rainfall in mm": 1070
+  },
+  {
+    "District": "UJJAIN",
+    "Rainfall in mm": 913
+  },
+  {
+    "District": "UMARIA",
+    "Rainfall in mm": 1251
+  },
+  {
+    "District": "VIDISHA",
+    "Rainfall in mm": 1135
+  },
+  {
+    "District": "WEST NIMAR",
+    "Rainfall in mm": 950
+  }
+]
+},
+
+
+{
+    "State": "Jharkhand",
+    "Districts":[
+  {
+    "District": "BOKARO",
+    "Rainfall in mm": 1260
+  },
+  {
+    "District": "CHATRA",
+    "Rainfall in mm": 1146
+  },
+  {
+    "District": "DEOGHAR",
+    "Rainfall in mm": 1133
+  },
+  {
+    "District": "DHANBAD",
+    "Rainfall in mm": 1296
+  },
+  {
+    "District": "DUMKA",
+    "Rainfall in mm": 1444
+  },
+  {
+    "District": "GARHWA",
+    "Rainfall in mm": 924
+  },
+  {
+    "District": "GIRIDIH",
+    "Rainfall in mm": 1216
+  },
+  {
+    "District": "GODDA",
+    "Rainfall in mm": 1057
+  },
+  {
+    "District": "GUMLA",
+    "Rainfall in mm": 1478
+  },
+  {
+    "District": "HAZARIBAGH",
+    "Rainfall in mm": 1251
+  },
+  {
+    "District": "JAMTARA",
+    "Rainfall in mm": 1316
+  },
+  {
+    "District": "KHUNTI",
+    "Rainfall in mm": 1267
+  },
+  {
+    "District": "KODARMA",
+    "Rainfall in mm": 1116
+  },
+  {
+    "District": "LATEHAR",
+    "Rainfall in mm": 1227
+  },
+  {
+    "District": "LOHARDAGA",
+    "Rainfall in mm": 1318
+  },
+  {
+    "District": "PAKUR",
+    "Rainfall in mm": 1528
+  },
+  {
+    "District": "PALAMU",
+    "Rainfall in mm": 1196
+  },
+  {
+    "District": "PASHCHIMI SINGHBHUM",
+    "Rainfall in mm": 1337
+  },
+  {
+    "District": "PURBI SINGHBHUM",
+    "Rainfall in mm": 1403
+  },
+  {
+    "District": "RAMGARH",
+    "Rainfall in mm": 1170
+  },
+  {
+    "District": "RANCHI",
+    "Rainfall in mm": 1323
+  },
+  {
+    "District": "SAHIBGANJ",
+    "Rainfall in mm": 1411
+  },
+  {
+    "District": "SARAIKELA-KHARSAWAN",
+    "Rainfall in mm": 1458
+  },
+  {
+    "District": "SIMDEGA",
+    "Rainfall in mm": 1344
+  }
+]
+},
+
+
+{
+    "State": "West Bengal",
+    "Districts":[
+  {
+    "District": "BANKURA",
+    "Rainfall in mm": 1367
+  },
+  {
+    "District": "BARDDHAMAN",
+    "Rainfall in mm": 1381
+  },
+  {
+    "District": "BIRBHUM",
+    "Rainfall in mm": 1410
+  },
+  {
+    "District": "DAKSHIN DINAJPUR",
+    "Rainfall in mm": 1609
+  },
+  {
+    "District": "DARJILING",
+    "Rainfall in mm": 2734
+  },
+  {
+    "District": "HAORA",
+    "Rainfall in mm": 1604
+  },
+  {
+    "District": "HUGLI",
+    "Rainfall in mm": 1403
+  },
+  {
+    "District": "JALPAIGURI",
+    "Rainfall in mm": 3320
+  },
+  {
+    "District": "KOCH BIHAR",
+    "Rainfall in mm": 3213
+  },
+  {
+    "District": "KOLKATA",
+    "Rainfall in mm": 1559
+  },
+  {
+    "District": "MALDAH",
+    "Rainfall in mm": 1352
+  },
+  {
+    "District": "MURSHIDABAD",
+    "Rainfall in mm": 1374
+  },
+  {
+    "District": "NADIA",
+    "Rainfall in mm": 1214
+  },
+  {
+    "District": "NORTH 24 PARGANAS",
+    "Rainfall in mm": 1641
+  },
+  {
+    "District": "PASHCHIM MEDINIPUR",
+    "Rainfall in mm": 1627
+  },
+  {
+    "District": "PURBA MEDINIPUR",
+    "Rainfall in mm": 1738
+  },
+  {
+    "District": "PURULIYA",
+    "Rainfall in mm": 1326
+  },
+  {
+    "District": "SOUTH 24 PARGANAS",
+    "Rainfall in mm": 1757
+  },
+  {
+    "District": "UTTAR DINAJPUR",
+    "Rainfall in mm": 1609
+  }
+]
+},
+
+{
+    "State": "Bihar",
+    "Districts":[
+  {
+    "District": "ARARIA",
+    "Rainfall in mm": 1529
+  },
+  {
+    "District": "ARWAL",
+    "Rainfall in mm": 700
+  },
+  {
+    "District": "AURANGABAD",
+    "Rainfall in mm": 1047
+  },
+  {
+    "District": "BANKA",
+    "Rainfall in mm": 828
+  },
+  {
+    "District": "BEGUSARAI",
+    "Rainfall in mm": 1069
+  },
+  {
+    "District": "BHAGALPUR",
+    "Rainfall in mm": 1209
+  },
+  {
+    "District": "BHOJPUR",
+    "Rainfall in mm": 1028
+  },
+  {
+    "District": "BUXAR",
+    "Rainfall in mm": 955
+  },
+  {
+    "District": "DARBHANGA",
+    "Rainfall in mm": 1157
+  },
+  {
+    "District": "GAYA",
+    "Rainfall in mm": 1087
+  },
+  {
+    "District": "GOPALGANJ",
+    "Rainfall in mm": 1090
+  },
+  {
+    "District": "JAMUI",
+    "Rainfall in mm": 812
+  },
+  {
+    "District": "JEHANABAD",
+    "Rainfall in mm": 993
+  },
+  {
+    "District": "KAIMUR (BHABUA)",
+    "Rainfall in mm": 1164
+  },
+  {
+    "District": "KATIHAR",
+    "Rainfall in mm": 1387
+  },
+  {
+    "District": "KHAGARIA",
+    "Rainfall in mm": 1233
+  },
+  {
+    "District": "KISHANGANJ",
+    "Rainfall in mm": 2142
+  },
+  {
+    "District": "LAKHISARAI",
+    "Rainfall in mm": 821
+  },
+  {
+    "District": "MADHEPURA",
+    "Rainfall in mm": 1411
+  },
+  {
+    "District": "MADHUBANI",
+    "Rainfall in mm": 1185
+  },
+  {
+    "District": "MUNGER",
+    "Rainfall in mm": 1146
+  },
+  {
+    "District": "MUZAFFARPUR",
+    "Rainfall in mm": 1199
+  },
+  {
+    "District": "NALANDA",
+    "Rainfall in mm": 1036
+  },
+  {
+    "District": "NAWADA",
+    "Rainfall in mm": 847
+  },
+  {
+    "District": "PASHCHIM CHAMPARAN",
+    "Rainfall in mm": 1515
+  },
+  {
+    "District": "PATNA",
+    "Rainfall in mm": 1056
+  },
+  {
+    "District": "PURBA CHAMPARAN",
+    "Rainfall in mm": 1203
+  },
+  {
+    "District": "PURNIA",
+    "Rainfall in mm": 1485
+  },
+  {
+    "District": "ROHTAS",
+    "Rainfall in mm": 1117
+  },
+  {
+    "District": "SAHARSA",
+    "Rainfall in mm": 1302
+  },
+  {
+    "District": "SAMASTIPUR",
+    "Rainfall in mm": 1120
+  },
+  {
+    "District": "SARAN (CHHAPRA)",
+    "Rainfall in mm": 1162
+  },
+  {
+    "District": "SHEIKHPURA",
+    "Rainfall in mm": 770
+  },
+  {
+    "District": "SHEOHAR",
+    "Rainfall in mm": 987
+  },
+  {
+    "District": "SITAMARHI",
+    "Rainfall in mm": 1298
+  },
+  {
+    "District": "SIWAN",
+    "Rainfall in mm": 1130
+  },
+  {
+    "District": "SUPAUL",
+    "Rainfall in mm": 1302
+  },
+  {
+    "District": "VAISHALI",
+    "Rainfall in mm": 1001
+  }
+]
+},
+
+{
+    "State": "Rajasthan",
+    "Districts":[
+  {
+    "District": "AJMER",
+    "Rainfall in mm": 500
+  },
+  {
+    "District": "ALWAR",
+    "Rainfall in mm": 625
+  },
+  {
+    "District": "BANSWARA",
+    "Rainfall in mm": 963
+  },
+  {
+    "District": "BARAN",
+    "Rainfall in mm": 872
+  },
+  {
+    "District": "BARMER",
+    "Rainfall in mm": 261
+  },
+  {
+    "District": "BHARATPUR",
+    "Rainfall in mm": 651
+  },
+  {
+    "District": "BHILWARA",
+    "Rainfall in mm": 680
+  },
+  {
+    "District": "BIKANER",
+    "Rainfall in mm": 248
+  },
+  {
+    "District": "BUNDI",
+    "Rainfall in mm": 736
+  },
+  {
+    "District": "CHITTAURGARH",
+    "Rainfall in mm": 804
+  },
+  {
+    "District": "CHURU",
+    "Rainfall in mm": 372
+  },
+  {
+    "District": "DAUSA",
+    "Rainfall in mm": 651
+  },
+  {
+    "District": "DHAULPUR",
+    "Rainfall in mm": 682
+  },
+  {
+    "District": "DUNGARPUR",
+    "Rainfall in mm": 728
+  },
+  {
+    "District": "GANGANAGAR",
+    "Rainfall in mm": 248
+  },
+  {
+    "District": "HANUMANGARH",
+    "Rainfall in mm": 311
+  },
+  {
+    "District": "JAIPUR",
+    "Rainfall in mm": 587
+  },
+  {
+    "District": "JAISALMER",
+    "Rainfall in mm": 165
+  },
+  {
+    "District": "JALOR",
+    "Rainfall in mm": 438
+  },
+  {
+    "District": "JHALAWAR",
+    "Rainfall in mm": 969
+  },
+  {
+    "District": "JHUNJHUNUN",
+    "Rainfall in mm": 493
+  },
+  {
+    "District": "JODHPUR",
+    "Rainfall in mm": 325
+  },
+  {
+    "District": "KARAULI",
+    "Rainfall in mm": 689
+  },
+  {
+    "District": "KOTA",
+    "Rainfall in mm": 787
+  },
+  {
+    "District": "NAGAUR",
+    "Rainfall in mm": 406
+  },
+  {
+    "District": "PALI",
+    "Rainfall in mm": 487
+  },
+  {
+    "District": "PRATAPGARH",
+    "Rainfall in mm": 995
+  },
+  {
+    "District": "RAJSAMAND",
+    "Rainfall in mm": 529
+  },
+  {
+    "District": "SAWAI MADHOPUR",
+    "Rainfall in mm": 758
+  },
+  {
+    "District": "SIKAR",
+    "Rainfall in mm": 466
+  },
+  {
+    "District": "SIROHI",
+    "Rainfall in mm": 658
+  },
+  {
+    "District": "TONK",
+    "Rainfall in mm": 616
+  },
+  {
+    "District": "UDAIPUR",
+    "Rainfall in mm": 653
+  }
+]
+},
+
+{
+    "State": "Punjab",
+    "Districts":[
+  {
+    "District": "AMRITSAR",
+    "Rainfall in mm": 687
+  },
+  {
+    "District": "BARNALA",
+    "Rainfall in mm": 452
+  },
+  {
+    "District": "BATHINDA",
+    "Rainfall in mm": 424
+  },
+  {
+    "District": "FARIDKOT",
+    "Rainfall in mm": 445
+  },
+  {
+    "District": "FATEHGARH SAHIB",
+    "Rainfall in mm": 695
+  },
+  {
+    "District": "FIROZPUR",
+    "Rainfall in mm": 435
+  },
+  {
+    "District": "GURDASPUR",
+    "Rainfall in mm": 1012
+  },
+  {
+    "District": "HOSHIARPUR",
+    "Rainfall in mm": 935
+  },
+  {
+    "District": "JALANDHAR",
+    "Rainfall in mm": 722
+  },
+  {
+    "District": "KAPURTHALA",
+    "Rainfall in mm": 466
+  },
+  {
+    "District": "LUDHIANA",
+    "Rainfall in mm": 679
+  },
+  {
+    "District": "MANSA",
+    "Rainfall in mm": 412
+  },
+  {
+    "District": "MOGA",
+    "Rainfall in mm": 498
+  },
+  {
+    "District": "MUKTSAR",
+    "Rainfall in mm": 381
+  },
+  {
+    "District": "PATIALA",
+    "Rainfall in mm": 688
+  },
+  {
+    "District": "RUPNAGAR",
+    "Rainfall in mm": 859
+  },
+  {
+    "District": "SAHIBZADA AJIT SINGH NAGAR",
+    "Rainfall in mm": 827
+  },
+  {
+    "District": "SANGRUR",
+    "Rainfall in mm": 614
+  },
+  {
+    "District": "SHAHID BHAGAT SINGH NAGAR",
+    "Rainfall in mm": 926
+  },
+  {
+    "District": "TARN TARAN",
+    "Rainfall in mm": 705
+  }
+]
+},
+
+{
+    "State": "Jammu & kashmir",
+    "Districts":[
+  {
+    "District": "ANANTNAG",
+    "Rainfall in mm": 956
+  },
+  {
+    "District": "DODA",
+    "Rainfall in mm": 1268
+  },
+  {
+    "District": "J&K District 1",
+    "Rainfall in mm": 1158
+  },
+  {
+    "District": "JAMMU",
+    "Rainfall in mm": 1250
+  },
+  {
+    "District": "KATHUA",
+    "Rainfall in mm": 1351
+  },
+  {
+    "District": "RAJOURI",
+    "Rainfall in mm": 769
+  },
+  {
+    "District": "SAMBA",
+    "Rainfall in mm": 1017
+  },
+  {
+    "District": "UDHAMPUR",
+    "Rainfall in mm": 1885
+  }
+]
+},
+
+{
+    "State": "Himachal Pradesh",
+    "Districts": [
+  {
+    "District": "BILASPUR",
+    "Rainfall in mm": 1258
+  },
+  {
+    "District": "CHAMBA",
+    "Rainfall in mm": 1525
+  },
+  {
+    "District": "HAMIRPUR",
+    "Rainfall in mm": 1435
+  },
+  {
+    "District": "KANGRA",
+    "Rainfall in mm": 2004
+  },
+  {
+    "District": "KINNAUR",
+    "Rainfall in mm": 734
+  },
+  {
+    "District": "KULLU",
+    "Rainfall in mm": 964
+  },
+  {
+    "District": "LAHUL & SPITI",
+    "Rainfall in mm": 1309
+  },
+  {
+    "District": "MANDI",
+    "Rainfall in mm": 1554
+  },
+  {
+    "District": "SHIMLA",
+    "Rainfall in mm": 1105
+  },
+  {
+    "District": "SIRMAUR",
+    "Rainfall in mm": 1697
+  },
+  {
+    "District": "SOLAN",
+    "Rainfall in mm": 1442
+  },
+  {
+    "District": "UNA",
+    "Rainfall in mm": 1085
+  }
+]
+},
+
+{
+    "State": "Uttarakhand",
+    "Districts":[
+  {
+    "District": "ALMORA",
+    "Rainfall in mm": 1180
+  },
+  {
+    "District": "BAGESHWAR",
+    "Rainfall in mm": 1939
+  },
+  {
+    "District": "CHAMOLI",
+    "Rainfall in mm": 1168
+  },
+  {
+    "District": "CHAMPAWAT",
+    "Rainfall in mm": 1648
+  },
+  {
+    "District": "DEHRADUN",
+    "Rainfall in mm": 2066
+  },
+  {
+    "District": "GARHWAL",
+    "Rainfall in mm": 1539
+  },
+  {
+    "District": "HARDWAR",
+    "Rainfall in mm": 1055
+  },
+  {
+    "District": "NAINITAL",
+    "Rainfall in mm": 1831
+  },
+  {
+    "District": "PITHORAGARH",
+    "Rainfall in mm": 1882
+  },
+  {
+    "District": "RUDRAPRAYAG",
+    "Rainfall in mm": 2118
+  },
+  {
+    "District": "TEHRI GARHWAL",
+    "Rainfall in mm": 1252
+  },
+  {
+    "District": "UDHAM SINGH NAGAR",
+    "Rainfall in mm": 1372
+  },
+  {
+    "District": "UTTARKASHI",
+    "Rainfall in mm": 1758
+  }
+]
+},
+
+
+{
+    "State": "Uttar Pradesh",
+    "Districts":[
+  {
+    "District": "AGRA",
+    "Rainfall in mm": 779
+  },
+  {
+    "District": "ALIGARH",
+    "Rainfall in mm": 731
+  },
+  {
+    "District": "AMBEDKAR NAGAR",
+    "Rainfall in mm": 1026
+  },
+  {
+    "District": "AURAIYA",
+    "Rainfall in mm": 837
+  },
+  {
+    "District": "AYODHYA",
+    "Rainfall in mm": 971
+  },
+  {
+    "District": "AZAMGARH",
+    "Rainfall in mm": 1062
+  },
+  {
+    "District": "BAGHPAT",
+    "Rainfall in mm": 649
+  },
+  {
+    "District": "BAHRAICH",
+    "Rainfall in mm": 1144
+  },
+  {
+    "District": "BALLIA",
+    "Rainfall in mm": 1000
+  },
+  {
+    "District": "BALRAMPUR",
+    "Rainfall in mm": 1253
+  },
+  {
+    "District": "BANDA",
+    "Rainfall in mm": 973
+  },
+  {
+    "District": "BARA BANKI",
+    "Rainfall in mm": 1061
+  },
+  {
+    "District": "BAREILLY",
+    "Rainfall in mm": 1051
+  },
+  {
+    "District": "BASTI",
+    "Rainfall in mm": 1121
+  },
+  {
+    "District": "BIJNOR",
+    "Rainfall in mm": 1094
+  },
+  {
+    "District": "BUDAUN",
+    "Rainfall in mm": 879
+  },
+  {
+    "District": "BULANDSHAHR",
+    "Rainfall in mm": 785
+  },
+  {
+    "District": "CHANDAULI",
+    "Rainfall in mm": 803
+  },
+  {
+    "District": "CHITRAKOOT",
+    "Rainfall in mm": 1050
+  },
+  {
+    "District": "DEORIA",
+    "Rainfall in mm": 1132
+  },
+  {
+    "District": "ETAH",
+    "Rainfall in mm": 758
+  },
+  {
+    "District": "ETAWAH",
+    "Rainfall in mm": 858
+  },
+  {
+    "District": "FARRUKHABAD",
+    "Rainfall in mm": 889
+  },
+  {
+    "District": "FATEHPUR",
+    "Rainfall in mm": 966
+  },
+  {
+    "District": "FIROZABAD",
+    "Rainfall in mm": 780
+  },
+  {
+    "District": "GAUTAM BUDDHA NAGAR",
+    "Rainfall in mm": 377
+  },
+  {
+    "District": "GHAZIABAD",
+    "Rainfall in mm": 750
+  },
+  {
+    "District": "GHAZIPUR",
+    "Rainfall in mm": 1053
+  },
+  {
+    "District": "GONDA",
+    "Rainfall in mm": 1167
+  },
+  {
+    "District": "GORAKHPUR",
+    "Rainfall in mm": 1259
+  },
+  {
+    "District": "HAMIRPUR",
+    "Rainfall in mm": 826
+  },
+  {
+    "District": "HARDOI",
+    "Rainfall in mm": 935
+  },
+  {
+    "District": "JALAUN",
+    "Rainfall in mm": 880
+  },
+  {
+    "District": "JAUNPUR",
+    "Rainfall in mm": 1006
+  },
+  {
+    "District": "JHANSI",
+    "Rainfall in mm": 938
+  },
+  {
+    "District": "JYOTIBA PHULE NAGAR",
+    "Rainfall in mm": 952
+  },
+  {
+    "District": "KANNAUJ",
+    "Rainfall in mm": 551
+  },
+  {
+    "District": "KANPUR DEHAT",
+    "Rainfall in mm": 823
+  },
+  {
+    "District": "KANPUR NAGAR",
+    "Rainfall in mm": 847
+  },
+  {
+    "District": "KANSIRAM NAGAR",
+    "Rainfall in mm": 764
+  },
+  {
+    "District": "KAUSHAMBI",
+    "Rainfall in mm": 933
+  },
+  {
+    "District": "KHERI",
+    "Rainfall in mm": 1125
+  },
+  {
+    "District": "KUSHINAGAR",
+    "Rainfall in mm": 1324
+  },
+  {
+    "District": "LALITPUR",
+    "Rainfall in mm": 1062
+  },
+  {
+    "District": "LUCKNOW",
+    "Rainfall in mm": 927
+  },
+  {
+    "District": "MAHAMAYA NAGAR",
+    "Rainfall in mm": 721
+  },
+  {
+    "District": "MAHARAJGANJ",
+    "Rainfall in mm": 1437
+  },
+  {
+    "District": "MAHOBA",
+    "Rainfall in mm": 656
+  },
+  {
+    "District": "MAINPURI",
+    "Rainfall in mm": 763
+  },
+  {
+    "District": "MATHURA",
+    "Rainfall in mm": 596
+  },
+  {
+    "District": "MAU",
+    "Rainfall in mm": 1117
+  },
+  {
+    "District": "MEERUT",
+    "Rainfall in mm": 905
+  },
+  {
+    "District": "MIRZAPUR",
+    "Rainfall in mm": 934
+  },
+  {
+    "District": "MORADABAD",
+    "Rainfall in mm": 986
+  },
+  {
+    "District": "MUZAFFARNAGAR",
+    "Rainfall in mm": 834
+  },
+  {
+    "District": "PILIBHIT",
+    "Rainfall in mm": 1130
+  },
+  {
+    "District": "PRATAPGARH",
+    "Rainfall in mm": 878
+  },
+  {
+    "District": "PRAYAGRAJ",
+    "Rainfall in mm": 920
+  },
+  {
+    "District": "RAE BARELI",
+    "Rainfall in mm": 949
+  },
+  {
+    "District": "RAMPUR",
+    "Rainfall in mm": 1117
+  },
+  {
+    "District": "SAHARANPUR",
+    "Rainfall in mm": 912
+  },
+  {
+    "District": "SANT KABIR NAGAR",
+    "Rainfall in mm": 810
+  },
+  {
+    "District": "SANT RAVI DAS NAGAR(BHADOHI)",
+    "Rainfall in mm": 983
+  },
+  {
+    "District": "SHAHJAHANPUR",
+    "Rainfall in mm": 994
+  },
+  {
+    "District": "SHRAWASTI",
+    "Rainfall in mm": 1144
+  },
+  {
+    "District": "SIDDHARTH NAGAR",
+    "Rainfall in mm": 1224
+  },
+  {
+    "District": "SITAPUR",
+    "Rainfall in mm": 982
+  },
+  {
+    "District": "SONBHADRA",
+    "Rainfall in mm": 1083
+  },
+  {
+    "District": "SULTANPUR",
+    "Rainfall in mm": 1009
+  },
+  {
+    "District": "UNNAO",
+    "Rainfall in mm": 918
+  },
+  {
+    "District": "VARANASI",
+    "Rainfall in mm": 945
+  }
+]
+},
+
+
+{
+    "State": "Sikkim",
+    "Districts":[
+  {
+    "District": "EAST",
+    "Rainfall in mm": 3191
+  },
+  {
+    "District": "NORTH",
+    "Rainfall in mm": 3465
+  },
+  {
+    "District": "SOUTH",
+    "Rainfall in mm": 3278
+  },
+  {
+    "District": "WEST",
+    "Rainfall in mm": 3286
+  }
+]
+},
+
+{
+    "State": "Assam",
+    "Districts":[
+  {
+    "District": "BAKSA",
+    "Rainfall in mm": 1885
+  },
+  {
+    "District": "BARPETA",
+    "Rainfall in mm": 2051
+  },
+  {
+    "District": "BONGAIGAON",
+    "Rainfall in mm": 3102
+  },
+  {
+    "District": "CACHAR",
+    "Rainfall in mm": 3312
+  },
+  {
+    "District": "CHIRANG",
+    "Rainfall in mm": 3115
+  },
+  {
+    "District": "DARRANG",
+    "Rainfall in mm": 1951
+  },
+  {
+    "District": "DHEMAJI",
+    "Rainfall in mm": 1892
+  },
+  {
+    "District": "DHUBRI",
+    "Rainfall in mm": 2753
+  },
+  {
+    "District": "DIBRUGARH",
+    "Rainfall in mm": 2649
+  },
+  {
+    "District": "DIMA HASAO",
+    "Rainfall in mm": 2792
+  },
+  {
+    "District": "GOALPARA",
+    "Rainfall in mm": 2583
+  },
+  {
+    "District": "GOLAGHAT",
+    "Rainfall in mm": 1752
+  },
+  {
+    "District": "HAILAKANDI",
+    "Rainfall in mm": 2838
+  },
+  {
+    "District": "JORHAT",
+    "Rainfall in mm": 2265
+  },
+  {
+    "District": "KAMRUP",
+    "Rainfall in mm": 1896
+  },
+  {
+    "District": "KAMRUP METROPOLITAN",
+    "Rainfall in mm": 1224
+  },
+  {
+    "District": "KARBI ANGLONG",
+    "Rainfall in mm": 1122
+  },
+  {
+    "District": "KARIMGANJ",
+    "Rainfall in mm": 3751
+  },
+  {
+    "District": "KOKRAJHAR",
+    "Rainfall in mm": 3102
+  },
+  {
+    "District": "LAKHIMPUR",
+    "Rainfall in mm": 3270
+  },
+  {
+    "District": "MARIGAON",
+    "Rainfall in mm": 1885
+  },
+  {
+    "District": "NAGAON",
+    "Rainfall in mm": 1885
+  },
+  {
+    "District": "NALBARI",
+    "Rainfall in mm": 1896
+  },
+  {
+    "District": "SIVASAGAR",
+    "Rainfall in mm": 2412
+  },
+  {
+    "District": "SONITPUR",
+    "Rainfall in mm": 1979
+  },
+  {
+    "District": "TINSUKIA",
+    "Rainfall in mm": 2323
+  },
+  {
+    "District": "UDALGURI",
+    "Rainfall in mm": 1980
+  }
+]
+},
+
+{
+    "State": "Meghalaya",
+    "Districts":[
+  {
+    "District": "EAST GARO HILLS",
+    "Rainfall in mm": 3095
+  },
+  {
+    "District": "EAST KHASI HILLS",
+    "Rainfall in mm": 3736
+  },
+  {
+    "District": "JAINTIA HILLS",
+    "Rainfall in mm": 1596
+  },
+  {
+    "District": "RI BHOI",
+    "Rainfall in mm": 1322
+  },
+  {
+    "District": "SOUTH GARO HILLS",
+    "Rainfall in mm": 5522
+  },
+  {
+    "District": "WEST GARO HILLS",
+    "Rainfall in mm": 3288
+  },
+  {
+    "District": "WEST KHASI HILLS",
+    "Rainfall in mm": 4792
+  }
+]
+},
+
+{
+    "State": "Arunachal Pradesh",
+    "Districts":[
+  {
+    "District": "ANJAW",
+    "Rainfall in mm": 1641
+  },
+  {
+    "District": "CHANGLANG",
+    "Rainfall in mm": 1716
+  },
+  {
+    "District": "DIBANG VALLEY",
+    "Rainfall in mm": 2159
+  },
+  {
+    "District": "EAST KAMENG",
+    "Rainfall in mm": 2122
+  },
+  {
+    "District": "EAST SIANG",
+    "Rainfall in mm": 2852
+  },
+  {
+    "District": "KURUNG KUMEY",
+    "Rainfall in mm": 1985
+  },
+  {
+    "District": "LOHIT",
+    "Rainfall in mm": 1774
+  },
+  {
+    "District": "LOWER DIBANG VALLEY",
+    "Rainfall in mm": 2392
+  },
+  {
+    "District": "LOWER SUBANSIRI",
+    "Rainfall in mm": 2358
+  },
+  {
+    "District": "PAPUM PARE",
+    "Rainfall in mm": 2465
+  },
+  {
+    "District": "TAWANG",
+    "Rainfall in mm": 1301
+  },
+  {
+    "District": "TIRAP",
+    "Rainfall in mm": 1833
+  },
+  {
+    "District": "UPPER SIANG",
+    "Rainfall in mm": 2718
+  },
+  {
+    "District": "UPPER SUBANSIRI",
+    "Rainfall in mm": 2065
+  },
+  {
+    "District": "WEST KAMENG",
+    "Rainfall in mm": 1735
+  },
+  {
+    "District": "WEST SIANG",
+    "Rainfall in mm": 2396
+  }
+]
+},
+
+{
+    "State": "Nagaland",
+    "Districts": [
+  {
+    "District": "DIMAPUR",
+    "Rainfall in mm": 1204
+  },
+  {
+    "District": "KIPHIRE",
+    "Rainfall in mm": 1190
+  },
+  {
+    "District": "KOHIMA",
+    "Rainfall in mm": 1156
+  },
+  {
+    "District": "LONGLENG",
+    "Rainfall in mm": 1512
+  },
+  {
+    "District": "MOKOKCHUNG",
+    "Rainfall in mm": 1404
+  },
+  {
+    "District": "MON",
+    "Rainfall in mm": 1735
+  },
+  {
+    "District": "PEREN",
+    "Rainfall in mm": 1163
+  },
+  {
+    "District": "PHEK",
+    "Rainfall in mm": 1139
+  },
+  {
+    "District": "TUENSANG",
+    "Rainfall in mm": 1307
+  },
+  {
+    "District": "WOKHA",
+    "Rainfall in mm": 1239
+  },
+  {
+    "District": "ZUNHEBOTO",
+    "Rainfall in mm": 1207
+  }
+]
+},
+
+{
+    "State": "Manipur",
+    "Districts":[
+  {
+    "District": "BISHNUPUR",
+    "Rainfall in mm": 917
+  },
+  {
+    "District": "CHANDEL",
+    "Rainfall in mm": 894
+  },
+  {
+    "District": "CHURACHANDPUR",
+    "Rainfall in mm": 1173
+  },
+  {
+    "District": "IMPHAL EAST",
+    "Rainfall in mm": 942
+  },
+  {
+    "District": "IMPHAL WEST",
+    "Rainfall in mm": 1302
+  },
+  {
+    "District": "SENAPATI",
+    "Rainfall in mm": 1084
+  },
+  {
+    "District": "TAMENGLONG",
+    "Rainfall in mm": 1008
+  },
+  {
+    "District": "THOUBAL",
+    "Rainfall in mm": 907
+  },
+  {
+    "District": "UKHRUL",
+    "Rainfall in mm": 1058
+  }
+]
+},
+
+
+{
+    "State": "Mizoram",
+    "Districts":[
+  {
+    "District": "AIZAWL",
+    "Rainfall in mm": 1581
+  },
+  {
+    "District": "CHAMPHAI",
+    "Rainfall in mm": 1428
+  },
+  {
+    "District": "KOLASIB",
+    "Rainfall in mm": 1890
+  },
+  {
+    "District": "LAWANGTLAI",
+    "Rainfall in mm": 1907
+  },
+  {
+    "District": "LUNGLEI",
+    "Rainfall in mm": 1673
+  },
+  {
+    "District": "MAMIT",
+    "Rainfall in mm": 1533
+  },
+  {
+    "District": "SAIHA",
+    "Rainfall in mm": 1882
+  },
+  {
+    "District": "SERCHHIP",
+    "Rainfall in mm": 1513
+  }
+]
+},
+
+{
+    "State": "Tripura",
+    "Districts":[
+  {
+    "District": "DHALAI",
+    "Rainfall in mm": 1724
+  },
+  {
+    "District": "NORTH TRIPURA",
+    "Rainfall in mm": 1803
+  },
+  {
+    "District": "SOUTH TRIPURA",
+    "Rainfall in mm": 1760
+  },
+  {
+    "District": "WEST TRIPURA",
+    "Rainfall in mm": 1729
+  }
+]
+},
+
+{
+    "State": "Haryana",
+    "Districts":[
+  {
+    "District": "AMBALA",
+    "Rainfall in mm": 703
+  },
+  {
+    "District": "BHIWANI",
+    "Rainfall in mm": 326
+  },
+  {
+    "District": "FARIDABAD",
+    "Rainfall in mm": 418
+  },
+  {
+    "District": "FATEHABAD",
+    "Rainfall in mm": 332
+  },
+  {
+    "District": "GURGAON",
+    "Rainfall in mm": 579
+  },
+  {
+    "District": "HISAR",
+    "Rainfall in mm": 311
+  },
+  {
+    "District": "JHAJJAR",
+    "Rainfall in mm": 502
+  },
+  {
+    "District": "JIND",
+    "Rainfall in mm": 443
+  },
+  {
+    "District": "KAITHAL",
+    "Rainfall in mm": 537
+  },
+  {
+    "District": "KARNAL",
+    "Rainfall in mm": 661
+  },
+  {
+    "District": "KURUKSHETRA",
+    "Rainfall in mm": 586
+  },
+  {
+    "District": "MAHENDRAGARH",
+    "Rainfall in mm": 444
+  },
+  {
+    "District": "MEWAT",
+    "Rainfall in mm": 473
+  },
+  {
+    "District": "PALWAL",
+    "Rainfall in mm": 417
+  },
+  {
+    "District": "PANCHKULA",
+    "Rainfall in mm": 984
+  },
+  {
+    "District": "PANIPAT",
+    "Rainfall in mm": 462
+  },
+  {
+    "District": "REWARI",
+    "Rainfall in mm": 555
+  },
+  {
+    "District": "ROHTAK",
+    "Rainfall in mm": 482
+  },
+  {
+    "District": "SIRSA",
+    "Rainfall in mm": 296
+  },
+  {
+    "District": "SONIPAT",
+    "Rainfall in mm": 491
+  },
+  {
+    "District": "YAMUNANAGAR",
+    "Rainfall in mm": 987
+  }
+]
+}
+]
