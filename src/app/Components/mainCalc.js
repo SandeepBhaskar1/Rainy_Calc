@@ -16,6 +16,7 @@ export default function MainCalc() {
   const [savings, setSavings] = useState(null);
   const [profit, setProfit] = useState(null);
   const [showROI, setShowROI] = useState(false);
+  const [ROIValue, setROIValue] = useState(null);
 
   useEffect(() => {
     fetch('/data.json')
@@ -101,15 +102,18 @@ export default function MainCalc() {
     if (rainwaterSaved && costOfRWF && costOfRWF > 0) {
       const calcSavings = parseFloat(rainwaterSaved) * waterCost;
       const CalcProfit = (calcSavings) - costOfRWF;
-      const ROIValue = (CalcProfit / costOfRWF) * 100;
+      const dailySavings = calcSavings / 365;
+      const ROIValue = costOfRWF / dailySavings;
 
       setSavings(calcSavings.toFixed(2));
       setProfit(CalcProfit.toFixed(2));
       setRoi(ROIValue.toFixed(2));
+      setROIValue(ROIValue.toFixed(0));
     } else {
       setRoi(null);
       setSavings(null);
       setProfit(null);
+      setROIValue(null);
     }
   }, [rainwaterSaved, costOfRWF])
   console.log(roi);
@@ -183,8 +187,7 @@ export default function MainCalc() {
           {roi !== null && showROI && (
             <>
             <p>Total Savings From Water : <strong>{savings}</strong></p>
-            <p>Profit (Savings - Filter Cost) : <strong>{profit}</strong></p>
-            <p><strong>Estinated ROI : <strong>{roi}%</strong></strong></p>
+            <p>Break-even point : <strong>In {ROIValue} days the filter becomes free.</strong></p>
             </>
           )} 
         </>
