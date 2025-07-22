@@ -11,6 +11,11 @@ export default function MainCalc() {
   const [roofArea, setRoofArea] = useState('');
   const [showResult, setShowResult] = useState(false);
   const [filter, setFilter] = useState(null);
+  const [costOfRWF, setCostOfRWF] = useState(0);
+  const [roi, setRoi] = useState(null);
+  const [savings, setSavings] = useState(null);
+  const [profit, setProfit] = useState(null);
+  const [showROI, setShowROI] = useState(false);
 
   useEffect(() => {
     fetch('/data.json')
@@ -65,15 +70,52 @@ export default function MainCalc() {
   };
 
   const suitableFilter = () => {
-    if (roofArea >= 1 && roofArea <= 1200) {
-        setFilter('Rainy FL-80')
-    } else if (roofArea >= 1200 && roofArea <= 2000){
-        setFilter('Rainy FL-120')
-    } else {
-        setFilter('Rainy FL-500')
-    }
-  } 
+    let filter = '';
+    let costOfRWF = 0
 
+    if (roofArea >= 1 && roofArea <= 1291.67) {
+        filter = 'Rainy FL-80'
+        costOfRWF = 8500;
+    } else if (roofArea >= 1291.68 && roofArea <= 1937.5){
+        filter = 'Rainy FL-150'
+        costOfRWF = 10850;
+    } else if (roofArea >= 1937.6 && roofArea <= 2690.98) {
+        filter = "Rainy FL-250"
+        costOfRWF = 13750;
+    } else if (roofArea >= 2690.99 && roofArea <= 4036.47) {
+        filter = "Rainy FL-350"
+        costOfRWF = 19500;
+    } else if (roofArea >= 4036.48 && roofArea <= 5381.96) {
+        filter = "Rainy FL-500"
+        costOfRWF = 26500;
+    } else if (roofArea > 5381.96) {
+        filter = 'As your roof area is large you need custom solution, please contact us. Thank you'
+    }
+    setFilter(filter);
+    setCostOfRWF(costOfRWF)
+  };
+
+  const waterCost = 0.1;
+
+  useEffect(() => {
+    if (rainwaterSaved && costOfRWF && costOfRWF > 0) {
+      const calcSavings = parseFloat(rainwaterSaved) * waterCost;
+      const CalcProfit = (calcSavings) - costOfRWF;
+      const ROIValue = ((CalcProfit) /costOfRWF)*100;
+
+      setSavings(calcSavings);
+      setProfit(CalcProfit);
+      setRoi(ROIValue.toFixed(2));
+    } else {
+      setRoi(null);
+      setSavings(null);
+      setProfit(null);
+    }
+    // console.log(profit);
+    // console.log(savings);
+  }, [rainwaterSaved, costOfRWF])
+  console.log(roi);
+  
   return (
     <div className="container">
         <form>
@@ -115,7 +157,7 @@ export default function MainCalc() {
             placeholder="Enter Roof Area"
           />
 
-          <button onClick={handleSubmit}>Submit</button>
+          <button onClick={handleSubmit} type='submit'>Submit</button>
         </>
       )}
 
@@ -134,6 +176,19 @@ export default function MainCalc() {
           </p>
 
           <h3>{filter}</h3>
+
+          { roi !== null && !showROI && (
+            <button type='button' onClick = {() => setShowROI(true)}>Check ROI</button>
+          )}
+
+
+          {roi !== null && showROI && (
+            <>
+            <p>Total Savings From Water : <strong>{savings}</strong></p>
+            <p>Profit (Savings - Filter Cost) : <strong>{profit}</strong></p>
+            <p><strong>Estinated ROI : <strong>{roi}%</strong></strong></p>
+            </>
+          )} 
         </>
       )}
 
