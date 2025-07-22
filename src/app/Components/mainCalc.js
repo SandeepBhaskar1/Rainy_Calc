@@ -101,18 +101,16 @@ export default function MainCalc() {
     if (rainwaterSaved && costOfRWF && costOfRWF > 0) {
       const calcSavings = parseFloat(rainwaterSaved) * waterCost;
       const CalcProfit = (calcSavings) - costOfRWF;
-      const ROIValue = ((CalcProfit) /costOfRWF)*100;
+      const ROIValue = (CalcProfit / costOfRWF) * 100;
 
-      setSavings(calcSavings);
-      setProfit(CalcProfit);
+      setSavings(calcSavings.toFixed(2));
+      setProfit(CalcProfit.toFixed(2));
       setRoi(ROIValue.toFixed(2));
     } else {
       setRoi(null);
       setSavings(null);
       setProfit(null);
     }
-    // console.log(profit);
-    // console.log(savings);
   }, [rainwaterSaved, costOfRWF])
   console.log(roi);
   
